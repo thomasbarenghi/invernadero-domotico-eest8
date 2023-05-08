@@ -9,12 +9,3 @@ During my last year in electronics, I led a team of 5 people to develop a home a
 - [@thomasbarenghi](https://github.com/thomasbarenghi)
 
 
-
-## Deployment
-
-Link
-
-```bash
-https://todo-next-roan.vercel.app/
-```
-
